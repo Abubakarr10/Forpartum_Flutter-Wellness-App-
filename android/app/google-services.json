@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "657681276345",
+    "firebase_url": "https://forpartum-620c4-default-rtdb.firebaseio.com",
+    "project_id": "forpartum-620c4",
+    "storage_bucket": "forpartum-620c4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657681276345:android:2d33886ca4f4c500736a68",
+        "android_client_info": {
+          "package_name": "com.rehman.forpartum"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657681276345-37id77k8rvl5df7ts4q3he2s9j16qs20.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rehman.forpartum",
+            "certificate_hash": "8144691e964abbe8273c78cfe6f0c58b717bf247"
+          }
+        },
+        {
+          "client_id": "657681276345-0ch37aq12uifk5evs20m9l3dptdujg29.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA3s103dEdobEjm5ZsiC0UxE8bqbmmQK7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657681276345-0ch37aq12uifk5evs20m9l3dptdujg29.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "657681276345-2pl44hf320kbkppnk5klcmcosqniab5g.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.rehman.forpartum.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
